@@ -1,0 +1,58 @@
+{
+  "PlayerData": [],
+
+  "ClubData": [
+    { "ID": 10001, "Name": "FC Astana", "ImageURL": "" },
+    { "ID": 10002, "Name": "FC Kairat", "ImageURL": "" },
+    { "ID": 10003, "Name": "FC Aktobe", "ImageURL": "" },
+    { "ID": 10004, "Name": "FC Tobol", "ImageURL": "" },
+    { "ID": 10005, "Name": "FC Ordabasy", "ImageURL": "" },
+    { "ID": 10006, "Name": "FC Kaisar", "ImageURL": "" },
+    { "ID": 10007, "Name": "FC Atyrau", "ImageURL": "" },
+    { "ID": 10008, "Name": "FC Kyzylzhar", "ImageURL": "" },
+    { "ID": 10009, "Name": "FC Zhetysu", "ImageURL": "" },
+    { "ID": 10010, "Name": "FC Zhenis", "ImageURL": "" },
+    { "ID": 10011, "Name": "FC Elimai", "ImageURL": "" },
+    { "ID": 10012, "Name": "FC Turan", "ImageURL": "" },
+
+    { "ID": 20001, "Name": "FC Ekibastuz", "ImageURL": "" },
+    { "ID": 20002, "Name": "FC Altai", "ImageURL": "" },
+    { "ID": 20003, "Name": "FC Taraz", "ImageURL": "" },
+    { "ID": 20004, "Name": "FC Kaspiy", "ImageURL": "" },
+    { "ID": 20005, "Name": "FC Akademiya Ontustik", "ImageURL": "" }
+  ],
+
+  "LeagueData": [
+    {
+      "ID": 28,
+      "Name": "Kazakhstan Premier League",
+      "ImageURL": ""
+    },
+    {
+      "ID": 29,
+      "Name": "Kazakhstan First League",
+      "ImageURL": ""
+    }
+  ],
+
+  "CupData": [
+    {
+      "ID": 2,
+      "Name": "Kazakhstan Cup",
+      "ImageURL": ""
+    }
+  ],
+
+  "StadiumData": [
+    {
+      "ID": 1,
+      "Name": "Astana Arena",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Name": "Central Stadium Almaty",
+      "ImageURL": ""
+    }
+  ]
+}
